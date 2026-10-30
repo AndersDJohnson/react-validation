@@ -58,7 +58,7 @@
     "react-addons-test-utils": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-hot-loader": "^1.3.0",
-    "validator": "^6.1.0",
+    "validator": "^13.15.35",
     "webpack": "^1.13.2",
     "webpack-dev-middleware": "^1.8.4",
     "webpack-hot-middleware": "^2.12.2"
